@@ -31,4 +31,6 @@ La cosa que se me olvido
     </div>
 </div>
 
+Registro
+
 Otro cambio
