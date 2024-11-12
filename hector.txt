@@ -1,9 +1,6 @@
-hola, como estas?.... efectivamente roger sigue siendo gay
+hola, como estas?
 
-Igual que samuel
-Y diego
-Y max
-y eliseo
+Ya les gustan las mujeres otra vez
 
 Trabajando en mi aplicacion
 COSAS
@@ -33,6 +30,8 @@ La cosa que se me olvido
         <a class="dropdown-item" href="#">After divider action</a>
     </div>
 </div>
+
+Registro
 
 Agregando COSAS
 
